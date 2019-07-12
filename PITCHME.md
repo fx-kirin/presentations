@@ -29,7 +29,7 @@
 - 株の解析
 @ulend
 
----?color=linear-gradient(180deg, black 100%)
+---?color=black
 
 @snap[h2-white]
 ## お金に関わることなら何でも
