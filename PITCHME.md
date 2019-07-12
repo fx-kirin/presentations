@@ -1,8 +1,8 @@
-# Let's Get Started
+# Financial Python Osaka の紹介 
 
 ---
 
-## Add Some Slide Candy
+## Python を使って金融データを扱う
 
 ![](assets/img/presentation.png)
 
