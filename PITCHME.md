@@ -2,10 +2,6 @@
 
 ---
 
-
-
----
-
 ## どういう勉強か？
 
 @ul[spaced]
@@ -19,7 +15,9 @@
 
 ## 話題は？
 
+@snap
 ### 「金融」ということが共通のテーマ
+@endsnap
 
 @ul[spaced]
 - データ分析・可視化
@@ -31,7 +29,7 @@
 
 ---?color=black
 
-@snap[h2-white]
+@snap[h2-grey]
 ## お金に関わることなら何でも
 @snapend
 
