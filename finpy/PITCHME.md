@@ -35,11 +35,9 @@ Python Kansai の参加メンバ
 
 ## 話題は？
 
-@box[fragment](### 「金融」ということが共通のテーマ)
-@css[fragment](### 「金融」ということが共通のテーマ)
 @snap[fragment]
 ### 「金融」ということが共通のテーマ
-@endsnap
+@snapend
 
 
 @ul[spaced]
