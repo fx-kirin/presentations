@@ -78,7 +78,7 @@ Python に興味があるというのが共通点
 - オプショントレード
 - Blockchain / Mining
 - 時事問題
-- 株の解析 .. などなど
+- 株の解析 ... などなど
 @ulend
 
 ---?color=grey
