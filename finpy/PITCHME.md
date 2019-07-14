@@ -30,10 +30,11 @@ Python の勉強会で知り合った
 @snap[fragment]
 金融よりプログラミング寄りの勉強会を目指している
 @snapend
-@snap[fragment]
+
+---
+
 プログラミングを本気で取り組んでいる人に    
 悪い人はいない
-@snapend
 
 ---
 
