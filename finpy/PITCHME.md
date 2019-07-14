@@ -79,7 +79,7 @@ Python に興味があるというのが共通点
 ---?color=grey
 
 @snap[h2-white]
-## 金融に関係するならなんでもＯＫ
+## 金融に関係すること<br>ならなんでもＯＫ
 @snapend
 
 ---?color=grey
