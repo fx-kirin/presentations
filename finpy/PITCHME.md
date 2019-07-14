@@ -36,6 +36,7 @@ Python Kansai の参加メンバ
 ## 話題は？
 
 @box[fragment](### 「金融」ということが共通のテーマ)
+@css[fragment](### 「金融」ということが共通のテーマ)
 
 
 @ul[spaced]
