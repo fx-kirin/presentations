@@ -4,7 +4,7 @@
 
 ## Financial Python とは？
 
-FinTech の技術を     
+FinTech の技術の中で     
 Python に焦点を当てて取り組んでいる勉強会
 
 大阪、東京で開催中(交流のある別団体)
