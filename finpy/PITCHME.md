@@ -90,6 +90,13 @@ Python に興味があるというのが共通点
 ---?color=grey
 
 @snap[h2-white]
+## 話題絶賛募集中
+@snapend
+
+
+---?color=grey
+
+@snap[h2-white]
 ## 興味がある人は私までお声がけください。
 @snapend
 
