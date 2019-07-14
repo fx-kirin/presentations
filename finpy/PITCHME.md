@@ -30,6 +30,9 @@ Python の勉強会で知り合った
 @snap[fragment]
 金融よりプログラミング寄りの勉強会を目指している
 @snapend
+@snap[fragment]
+プログラミングを本気で取り組んでいる人に悪い人はいない
+@snapend
 
 ---
 
@@ -79,7 +82,7 @@ Python に興味があるというのが共通点
 ---?color=grey
 
 @snap[h2-white]
-## 金融に関係すること<br>ならなんでもＯＫ
+## 金融に関係すること<br />ならなんでもＯＫ
 @snapend
 
 ---?color=grey
